@@ -2,7 +2,7 @@
 
 **Autor:** Diego Navarrete — Sección 2
 
-Proyecto final del Módulo 4: **Programación Avanzada en JavaScript** (Bootcamp Alkemy).
+Proyecto final del Módulo 4: **Programación Avanzada en JavaScript**.
 
 Aplicación web para crear, editar y eliminar tareas, usando JavaScript moderno (POO, ES6+, eventos del DOM, asincronía y consumo de APIs), con Bootstrap para los estilos.
 
